@@ -6,7 +6,6 @@
 __pycache__/
 .venv/
 .venv
-.vscode/
 .env
 .op.env
 .env.local
@@ -147,3 +146,4 @@ infographic/
 branch_structure.json
 temp_auto_push.bat
 temp_interactive_push.bat
+.gitignore
